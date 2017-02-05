@@ -9,4 +9,14 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
+# What file to ignore:
+# - Compiled source code
+# - Packages and compressed files
+# - logs and databasese
+# - operation system gernerated files
+# - user-uploaded assets (images, PDFs, videos)
+#
+# Reference:
+# https://help.github.com/articles/ignoring-files
+# https://github.com/github/gitignore
 
